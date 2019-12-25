@@ -6,6 +6,8 @@ public class Test {
             System.out.println("git的第一个项目上传！"+i);
         }
         System.out.println("github");
+
+        System.out.println("github");
         System.out.println("github");
         System.out.println("github");
 
